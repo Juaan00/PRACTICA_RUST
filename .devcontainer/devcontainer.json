@@ -10,7 +10,7 @@
 				"GitHub.copilot"
 			],
 			"settings": {
-				"rust-analyzer.cargo.loadOutDirsFromCheck": true,
+				"rust-analyzer.cargo.autoreload": true
 			}
 		}
 	}
