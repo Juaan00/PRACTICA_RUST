@@ -8,7 +8,7 @@
 		"vscode": {
 			"extensions": [
 				"GitHub.copilot"
-			]
+			],
 			"settings": {
 				"rust-analyzer.cargo.loadOutDirsFromCheck": true,
 			}
